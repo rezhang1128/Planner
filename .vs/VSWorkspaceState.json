@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Planner",
+    "\\Planner\\app",
+    "\\Planner\\app\\assets",
+    "\\Planner\\app\\assets\\stylesheets",
+    "\\Planner\\app\\controllers",
+    "\\Planner\\app\\views",
+    "\\Planner\\app\\views\\layouts",
+    "\\Planner\\app\\views\\maps",
+    "\\Planner\\config"
+  ],
+  "SelectedNode": "\\Planner\\Gemfile",
+  "PreviewInSolutionExplorer": false
+}
