@@ -3,14 +3,13 @@
     "",
     "\\Planner",
     "\\Planner\\app",
-    "\\Planner\\app\\assets",
-    "\\Planner\\app\\assets\\stylesheets",
-    "\\Planner\\app\\controllers",
+    "\\Planner\\app\\javascript",
     "\\Planner\\app\\views",
-    "\\Planner\\app\\views\\layouts",
     "\\Planner\\app\\views\\maps",
-    "\\Planner\\config"
+    "\\Planner\\app\\views\\pwa",
+    "\\Planner\\spec",
+    "\\Planner\\spec\\features"
   ],
-  "SelectedNode": "\\Planner\\Gemfile",
+  "SelectedNode": "\\Planner\\spec\\features",
   "PreviewInSolutionExplorer": false
 }
